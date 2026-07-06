@@ -1,0 +1,46 @@
+
+
+app = Flask(__name__)
+
+UPLOAD_FOLDER = 'uploads'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+ filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+
+
+    
+    return "Flask Server is running. In a real app, this returns the index.html template."
+
+
+    email_text = request.form.get('emailtext')
+    email_file = request.files.get('emailfile')
+
+    content_to_analyze = ""
+
+    
+        filename = secure_filename(email_file.filename)
+        filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        email_file.save(filepath)
+    
+    
+    
+        content_to_analyze = email_text
+    
+        return "No content provided", 400
+
+    
+    
+
+    return {
+        "status": "success",
+        "message": "Analysis complete",
+        "risk_score": "Low",
+
+    }
+
+
+    
+    print("Flask application structure defined.")
