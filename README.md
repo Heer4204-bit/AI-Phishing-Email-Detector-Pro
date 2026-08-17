@@ -1,19 +1,2 @@
-# AI-Phishing-Email-Detector-Pro
-
-AI-Phishing-Email-Detector-Pro is an AI-powered Flask cybersecurity application that intelligently analyzes email content and uploaded files to detect phishing attacks using machine learning-based threat analysis, real-time risk scoring, and advanced email security techniques.
-
-🚀 Features
-
-🛠️ Tech Stack
-
-📂 Project Structure
-
-⚙️ Installation
-
-▶️ Usage
-
-📸 Screenshots
-
-🔮 Future Improvements
-
-👨‍💻 Author
+# AI Phishing Email Detector <img width="1536" height="1024" alt="file_00000000a1c88208a54a69744f43ce77" src="https://github.com/user-attachments/assets/f4aeffc5-b5d3-4ce1-a027-2e7564eed625" />
+Pro
