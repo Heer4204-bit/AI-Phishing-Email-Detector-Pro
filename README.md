@@ -170,13 +170,17 @@ A professional dashboard can display:
 
 # 🛠️ Technology Stack
 
-Technology| Purpose
-🐍 Python | Core development & detection logic
-🌐 HTML5  | Web application structure
-🎨 CSS3   | Responsive and modern UI
-⚡ JavaScript| Frontend interactions & dynamic functionality
-🧠 Machine Learning| Phishing pattern detection
-🐙 Git & GitHub| Version control & project collaboration
+🐍 Python 
+
+🌐 HTML5
+
+🎨 CSS3
+
+⚡ JavaScript
+
+🧠 Machine Learning
+
+🐙 Git & GitHub
 
 ---
 
