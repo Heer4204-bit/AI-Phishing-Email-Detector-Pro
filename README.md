@@ -2,14 +2,7 @@
 
 # AI Phishing Email Detector Pro 📧
 
-«🛡️ An intelligent AI/ML-powered cybersecurity application that analyzes emails, URLs, headers, and suspicious patterns to detect phishing threats and generate actionable security insights.»
-
-"AI Phishing Email Detector" (https://img.shields.io/badge/AI-Phishing%20Email%20Detector-7C3AED?style=for-the-badge)
-"Cybersecurity" (https://img.shields.io/badge/Cybersecurity-Threat%20Detection-DC2626?style=for-the-badge)
-"Python" (https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"HTML" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+AI Phishing Email Detector is an intelligent AI/ML-powered cybersecurity application that analyzes emails, URLs, headers, and suspicious patterns to detect phishing threats and generate actionable security insights.
 
 ---
 
@@ -101,25 +94,39 @@ A professional dashboard can display:
 # 🖥️ Project Workflow
 
 📧 Email Input
+
       │
+      
       ▼
 🔍 Email & URL Extraction
+
       │
+      
       ▼
 🧹 Data Preprocessing
+
       │
+      
       ▼
 🧠 Feature Extraction
+
       │
+      
       ▼
 🤖 AI/ML Detection
+
       │
+      
       ▼
 📊 Threat Score Calculation
+
       │
+      
       ▼
 🚦 Risk Classification
+
       │
+      
       ▼
 🛡️ Security Recommendations
 
@@ -176,37 +183,64 @@ Technology| Purpose
 # 📂 Suggested Project Structure
 
 AI-Phishing-Email-Detector-Pro/
+
 │
+
 ├── 📄 README.md
+
 ├── 📄 requirements.txt
+
 ├── 📄 LICENSE
+
 │
+
 ├── 📁 app/
+
 │   ├── 📄 app.py
+
 │   ├── 📄 detector.py
+
 │   ├── 📄 analyzer.py
+
 │   └── 📄 utils.py
+
 │
+
 ├── 📁 static/
+
 │   ├── 📄 style.css
+
 │   └── 📄 script.js
+
 │
+
 ├── 📁 templates/
+
 │   └── 📄 index.html
+
 │
+
 ├── 📁 models/
+
 │   └── 📄 model.pkl
+
 │
+
 ├── 📁 data/
+
 │   └── 📄 sample_emails.csv
+
 │
-├── 📁 screenshots/
+
 │   └── 🖼️ dashboard.png
+
 │
+
 └── 📁 docs/
+
     └── 📄 project-documentation.md
 
-«Modify this structure according to the actual files in your repository.»
+Modify this structure according to the actual files in your repository.
 
 ---
 
@@ -260,9 +294,13 @@ Click the link below to confirm your identity.
 🔎 Possible Indicators
 
 ⚠️ Urgent language
+
 ⚠️ Suspicious URL
+
 ⚠️ Account verification request
+
 ⚠️ Potential impersonation
+
 ⚠️ Social-engineering pattern
 
 📊 Example Result
@@ -357,9 +395,13 @@ This project is intended for educational, research, and defensive cybersecurity 
 Never commit:
 
 ❌ API keys
+
 ❌ Passwords
+
 ❌ Access tokens
+
 ❌ Private credentials
+
 ❌ Confidential datasets
 
 Use environment variables or secure secret-management solutions for sensitive configuration.
@@ -400,7 +442,9 @@ If you publish this project under a specific open-source license, add the corres
 Heer Patel
 
 🎓 B.Tech IT
+
 🏫 Gandhinagar University
+
 💻 AI • Machine Learning • Web Development • Cybersecurity
 
 ---
@@ -410,17 +454,21 @@ Heer Patel
 If you find AI Phishing Email Detector Pro useful:
 
 ⭐ Star the repository
+
 🍴 Fork the project
+
 🐛 Report issues
+
 💡 Suggest improvements
+
 🤝 Contribute to the project
 
 ---
 
 # 🛡️ Detect Today. Protect Tomorrow.
 
-«Every suspicious email deserves a second look.
-Every user deserves safer digital communication.»
+Every suspicious email deserves a second look.
+Every user deserves safer digital communication.
 
 
 # Smart. Fast. Accurate. Secure.
