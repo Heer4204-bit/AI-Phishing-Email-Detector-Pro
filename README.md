@@ -2,13 +2,13 @@
 
 # AI Phishing Email Detector Pro 📧
 
-AI Phishing Email Detector is an intelligent AI/ML-powered cybersecurity application that analyzes emails, URLs, headers, and suspicious patterns to detect phishing threats and generate actionable security insights.
+AI Phishing Email Detector Pro is an intelligent AI/ML-powered cybersecurity application that analyzes emails, URLs, headers, and suspicious patterns to detect phishing threats and generate actionable security insights.
 
 ---
 
 # 🚨 About the Project
 
-AI Phishing Email Detector Pro is a cybersecurity-focused project designed to identify potentially malicious and phishing emails before they can cause harm.
+It is a cybersecurity-focused project designed to identify potentially malicious and phishing emails before they can cause harm.
 
 The application analyzes email content and suspicious indicators such as:
 
