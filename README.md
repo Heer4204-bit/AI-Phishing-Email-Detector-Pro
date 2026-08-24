@@ -476,6 +476,7 @@ Every user deserves safer digital communication.
 <img width="739" height="415" alt="images (1)" src="https://github.com/user-attachments/assets/af6f6119-aad5-4188-afed-4d3b213fbd5d" />
 
 
+
 # Smart. Fast. Accurate. Secure.
 
 <img width="1216" height="832" alt="secure-email-trwj6weewo4yemv8re3d3vlz" src="https://github.com/user-attachments/assets/b6124011-de22-446b-8d69-531ba8a65f76" />
