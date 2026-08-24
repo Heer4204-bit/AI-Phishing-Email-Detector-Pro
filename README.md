@@ -469,6 +469,8 @@ If you find AI Phishing Email Detector Pro useful:
 
 ---
 
+<img width="739" height="415" alt="images (1)" src="https://github.com/user-attachments/assets/af6f6119-aad5-4188-afed-4d3b213fbd5d" />
+
 # 🛡️ Detect Today. Protect Tomorrow.
 
 Every suspicious email deserves a second look.
